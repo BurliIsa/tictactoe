@@ -1,0 +1,15 @@
+body {
+	font-family: Arial;
+}
+table {
+	border-collapse:collapse;
+
+}
+
+td {
+	background-color: aliceblue;
+	border: 3px solid black;
+	font-size:80px;
+	color:black;
+
+}
